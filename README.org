@@ -1,0 +1,10 @@
+* treedb
+
+A hierarchical key-value-database for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chfin/treedb.git   |
+| commit  | d6c77ea  |
+| systems | treedb |
+|---------+-------------------------------------------|
+
